@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/15-react-cocktail-finder/static/css/main.5c529f91.chunk.css",
+    "main.js": "/15-react-cocktail-finder/static/js/main.135e1b2d.chunk.js",
+    "main.js.map": "/15-react-cocktail-finder/static/js/main.135e1b2d.chunk.js.map",
+    "runtime-main.js": "/15-react-cocktail-finder/static/js/runtime-main.1d6c7755.js",
+    "runtime-main.js.map": "/15-react-cocktail-finder/static/js/runtime-main.1d6c7755.js.map",
+    "static/js/2.975d57c7.chunk.js": "/15-react-cocktail-finder/static/js/2.975d57c7.chunk.js",
+    "static/js/2.975d57c7.chunk.js.map": "/15-react-cocktail-finder/static/js/2.975d57c7.chunk.js.map",
+    "index.html": "/15-react-cocktail-finder/index.html",
+    "precache-manifest.0e1517ab5c4bb756500f16fa2a563546.js": "/15-react-cocktail-finder/precache-manifest.0e1517ab5c4bb756500f16fa2a563546.js",
+    "service-worker.js": "/15-react-cocktail-finder/service-worker.js",
+    "static/css/main.5c529f91.chunk.css.map": "/15-react-cocktail-finder/static/css/main.5c529f91.chunk.css.map",
+    "static/js/2.975d57c7.chunk.js.LICENSE.txt": "/15-react-cocktail-finder/static/js/2.975d57c7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/15-react-cocktail-finder/static/media/logo.9a3d2645.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d6c7755.js",
+    "static/js/2.975d57c7.chunk.js",
+    "static/css/main.5c529f91.chunk.css",
+    "static/js/main.135e1b2d.chunk.js"
+  ]
+}
