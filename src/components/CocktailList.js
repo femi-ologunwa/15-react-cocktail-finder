@@ -4,6 +4,7 @@ import Loading from './Loading';
 
 const CocktailList = () => {
    const { cocktails, loading } = useContext(AppContext);
+   console.log(cocktails);
 
    if (loading) {
       return <Loading />;
