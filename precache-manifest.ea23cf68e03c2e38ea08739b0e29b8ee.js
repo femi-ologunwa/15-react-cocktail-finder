@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7fa4d796ba2ac19a2f3b784eb0fa75af",
+    "revision": "ffe742a992c930c52ed7136e0d96e3ea",
     "url": "/15-react-cocktail-finder/index.html"
   },
   {
-    "revision": "303e3311c7113e8f86ca",
+    "revision": "bc602ccbf6131c6e097c",
     "url": "/15-react-cocktail-finder/static/css/main.5c529f91.chunk.css"
   },
   {
-    "revision": "b2ddc5554eefa67ccb0a",
-    "url": "/15-react-cocktail-finder/static/js/2.975d57c7.chunk.js"
+    "revision": "75d5e3198f38bcddd9de",
+    "url": "/15-react-cocktail-finder/static/js/2.c550703c.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/15-react-cocktail-finder/static/js/2.975d57c7.chunk.js.LICENSE.txt"
+    "url": "/15-react-cocktail-finder/static/js/2.c550703c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "303e3311c7113e8f86ca",
-    "url": "/15-react-cocktail-finder/static/js/main.135e1b2d.chunk.js"
+    "revision": "bc602ccbf6131c6e097c",
+    "url": "/15-react-cocktail-finder/static/js/main.64ec3d15.chunk.js"
   },
   {
     "revision": "5b3c6099bd01653b11bb",
