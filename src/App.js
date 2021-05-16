@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { HashRouter as Router, Route, Switch } from 'react-router-dom';
 //import pages
 import Home from './pages/Home';
 import About from './pages/About';
@@ -31,3 +31,8 @@ function App() {
 }
 
 export default App;
+
+/*
+We switched from BrowserRouter to HashRouter for the deployment of apps (with routing) to githubPages 
+
+*/
